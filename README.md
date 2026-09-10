@@ -75,21 +75,6 @@ This project was an early exercise in breaking a larger problem into smaller sys
 
 ---
 
-## 📂 Project Structure
-
-```text
-Tetris/
-├── assets/
-│   └── sprites/
-├── main.py
-├── settings.py
-├── tetris.py
-├── tetromino.py
-└── README.md
-```
-
----
-
 ## 🚀 Running the Project
 
 Clone the repository:
