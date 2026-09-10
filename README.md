@@ -19,14 +19,6 @@ This project was created as a programming experiment to learn how to build a gam
 
 ---
 
-## 📸 Preview
-
-![Tetris](./assets/sprites/preview.png)
-
-> *Preview from the development version of the project.*
-
----
-
 ## 🧠 What I Learned
 
 Building Tetris was a very different challenge from my earlier projects.
